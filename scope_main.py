@@ -4,7 +4,7 @@ import time
 import random
 from random import randint
 
-print('\n' * 10)
+print('\n' * 100)
 print('\n\n\n------------------------')
 print('        Welcome to Scope!')
 print('------------------------')
